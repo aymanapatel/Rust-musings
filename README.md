@@ -1,4 +1,4 @@
-# Rust Musings 
+# Rust Musings: 01-Semantics
 
 
 
